@@ -9,7 +9,8 @@ var clues = [
 {'question':'WHATSYOURPLEASURE','answer':'Lay with me by my side'},
 {'question':'PEESYCHIC','answer':'You have always had the key'},
 {'question':'♪SANTOAST♪','answer':'It\'s always sunny in Philidelphia. How can I ever prevent that?'},
-{'question':'digging','answer':'You caught that huh. Nice job, but it wasn\'t a clue. At least not as of yet ;)'}
+{'question':'digging','answer':'You caught that huh. Nice job, but it wasn\'t a clue. At least not as of yet ;)'},
+{'question':'the way','answer':''}
 ]
 
 var error = [
@@ -21,7 +22,8 @@ var error = [
 "The Tao teaches us that there is no right and wrong, only the way. That is until it saw this code.",
 "An error occured while laughing at your entry",
 "Alarm 1: Don't go on.</br>Alarm 2: Go back while you still can.</br>Alarm 3: This is not the way.</br>Alarm 4: Take heed, and go no further.</br>Alarm 5: Beware, beware.</br>Alarm 6: Soon it will be too late.</br>Shannon: Oh, shut up!</br>Alarm 7: Sorry, just doing my job.</br>Shannon: Well you don't have to do it to me!</br>Alarm 8: Beware, for the...</br>Shannon: Just forget it!</br>Alarm 8: Oh please, I haven't said it for such a long time!</br>Hoggle: Oh, all right, but don't expect a big reaction!</br>Alarm 8: No no no, of course not! (clears throat) \"For the path you will take will lead to certain destruction.\" Thank you very much...",
-"Keyboard not found. Press F1"
+"Keyboard not found. Press F1",
+"Sometimes even a answer can reaveal <em>the way</em>"
 ]
 
 function testCode(){
