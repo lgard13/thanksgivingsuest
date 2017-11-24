@@ -12,7 +12,7 @@ var clues = [
 {'question':'digging','answer':'You caught that huh. Nice job, but it wasn\'t a clue. At least not as of yet ;)'},
 {'question':'the way','answer':''},
 {'question':'ca·ca·o','answer':'1234'},
-{'question':'TAKEYOURTHRONE','answer':'Your are a QUEEN and QUEENS don\'t compete with peasants.'}
+{'question':'TAKEYOURTHRONE','answer':'You are a QUEEN and QUEENS do not compete with peasants. They do not use contractions either'}
 ]
 
 var error = [
