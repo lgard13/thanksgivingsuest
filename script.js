@@ -13,7 +13,7 @@ var clues = [
 {'question':'the way','answer':''},
 {'question':'ca·ca·o','answer':'1234'},
 {'question':'TAKEYOURTHRONE','answer':'You are a QUEEN and QUEENS do not compete with peasants. They do not use contractions either'},
-{'question':'order','answer':'DARN. You found me. PRETTY SNEAKY HUH! Well i should give you a hint I guess... Some hints only appear at a certain time and dissapear at a certain time so pay attention'}
+{'question':'order','answer':'DARN. You found me. PRETTY SNEAKY HUH! Well i should give you a hint I guess... Some hints only appear at a certain time and dissapear after a certain time so pay attention'}
 ]
 
 var error = [
