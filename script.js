@@ -10,7 +10,9 @@ var clues = [
 {'question':'PEESYCHIC','answer':'You have always had the key'},
 {'question':'♪SANTOAST♪','answer':'It\'s always sunny in Philidelphia. How can I ever prevent that?'},
 {'question':'digging','answer':'You caught that huh. Nice job, but it wasn\'t a clue. At least not as of yet ;)'},
-{'question':'the way','answer':''}
+{'question':'the way','answer':''},
+{'question':'ca·ca·o','answer':'1234'}
+ 
 ]
 
 var error = [
