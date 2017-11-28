@@ -2,7 +2,7 @@ var clues = [
 {'question':'GLWEOPSHCSTEBLMNWSAKZXSWLFPAVV','answer':'Congratulations! You have collected all 30 notes'},
 {'question':'ILOVEYOUMORETODAYTHANYESTERDAY','answer':'Aww, that\'s sweet. I wonder what the future holds'},
 {'question':'♫#&~@#%[*?^#;"&]#!$>♪%**+<=!@♬"','answer':'TBD'},
-{'question':'♫BUTONLYHALFASMUCHAS♪TOMORROW♬','answer':'That\'s whatI like to hear, but did you know there are 31 clues? The Great InSite has extended finding this clue. Your new hint will be given on 12-1 from 9:00am to 5:01pm'},
+{'question':'♫BUTONLYHALFASMUCHAS♪TOMORROW♬','answer':'That\'s whatI like to hear. I feel the same way!! But did you know there are 31 clues?</br>The Great InSite has extended finding this clue. Your new hint will be given on 12-1 from 9:00am to 5:01pm'},
 {'question':'YOSHI','answer':'I just dyed in your arms tonight'},
 {'question':'HUGS&CATLICKS','answer':'In every generation, there is a chosen one...'},
 {'question':'JAFFAKREE','answer':'Top o\' the morning to you'},
