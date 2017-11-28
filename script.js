@@ -2,7 +2,7 @@ var clues = [
 {'question':'GLWEOPSHCSTEBLMNWSAKZXSWLFPAVV','answer':'Congratulations! You have collected all 30 notes'},
 {'question':'ILOVEYOUMORETODAYTHANYESTERDAY','answer':'Aww, that\'s sweet. I wonder what the future holds'},
 {'question':'♫#&~@#%[*?^#;"&]#!$>♪%**+<=!@♬"','answer':'TBD'},
-{'question':'♫butonlyhalfasmuchas♪tomorrow♬','answer':'That\'s whatI like to hear, but did you know there are 31 clues?'},
+{'question':'♫BUTONLYHALFASMUCHAS♪TOMORROW♬','answer':'That\'s whatI like to hear, but did you know there are 31 clues?'},
 {'question':'YOSHI','answer':'I just dyed in your arms tonight'},
 {'question':'HUGS&CATLICKS','answer':'In every generation, there is a chosen one...'},
 {'question':'JAFFAKREE','answer':'Top o\' the morning to you'},
